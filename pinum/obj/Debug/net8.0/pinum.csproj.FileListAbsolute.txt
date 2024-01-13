@@ -1,0 +1,14 @@
+C:\Users\Emirh\source\repos\pinum\bin\Debug\net8.0\pinum.exe
+C:\Users\Emirh\source\repos\pinum\bin\Debug\net8.0\pinum.deps.json
+C:\Users\Emirh\source\repos\pinum\bin\Debug\net8.0\pinum.runtimeconfig.json
+C:\Users\Emirh\source\repos\pinum\bin\Debug\net8.0\pinum.dll
+C:\Users\Emirh\source\repos\pinum\bin\Debug\net8.0\pinum.pdb
+C:\Users\Emirh\source\repos\pinum\obj\Debug\net8.0\pinum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emirh\source\repos\pinum\obj\Debug\net8.0\pinum.AssemblyInfoInputs.cache
+C:\Users\Emirh\source\repos\pinum\obj\Debug\net8.0\pinum.AssemblyInfo.cs
+C:\Users\Emirh\source\repos\pinum\obj\Debug\net8.0\pinum.csproj.CoreCompileInputs.cache
+C:\Users\Emirh\source\repos\pinum\obj\Debug\net8.0\pinum.dll
+C:\Users\Emirh\source\repos\pinum\obj\Debug\net8.0\refint\pinum.dll
+C:\Users\Emirh\source\repos\pinum\obj\Debug\net8.0\pinum.pdb
+C:\Users\Emirh\source\repos\pinum\obj\Debug\net8.0\pinum.genruntimeconfig.cache
+C:\Users\Emirh\source\repos\pinum\obj\Debug\net8.0\ref\pinum.dll
